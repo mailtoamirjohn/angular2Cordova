@@ -1,3 +1,7 @@
+# Setup
+
+Follow this [link](https://stackoverflow.com/a/44397322/3600674) for step by step development.
+
 # Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
